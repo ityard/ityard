@@ -1,16 +1,13 @@
-### Hi there 👋
+### 我的站点
 
-<!--
-**ityard/ityard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+博客：[https://ityard.gitee.io](https://ityard.gitee.io)
+知乎：[https://www.zhihu.com/people/yekepy](https://www.zhihu.com/people/yekepy)
+CSDN：[https://blog.csdn.net/ityard](https://blog.csdn.net/ityard)
+公号：Python小二
 
-Here are some ideas to get you started:
+![](https://ityard.gitee.io/img/qrcode.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+欢迎关注公众号 **Python小二**，第一时间阅读、获取源码，回复关键字 **1024** 可以免费领取个人整理的各类编程语言学习资料。
+
+![Github Stars](https://github-readme-stats.vercel.app/api?username=ityard&show_icons=true&hide=contribs)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ityard&layout=compact)
