@@ -6,6 +6,3 @@
 * 公众号：Python小二，免费领取各类编程语言学习资料
 
 ![](https://ityard.gitee.io/img/qrcode.jpg)
-
-![Github Stars](https://github-readme-stats.vercel.app/api?username=ityard&show_icons=true&hide=contribs)
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ityard&layout=compact)
