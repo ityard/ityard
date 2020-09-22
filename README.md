@@ -1,4 +1,4 @@
-### 我的站点
+### 个人站点
 
 * 博客：[https://ityard.gitee.io](https://ityard.gitee.io)
 * CSDN：[https://blog.csdn.net/ityard](https://blog.csdn.net/ityard)
